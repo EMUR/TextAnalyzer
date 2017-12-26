@@ -5,4 +5,5 @@ This tool is deemed useful for basic text file inspections.
 
 # Screenshot
 ![Screenshot1](https://i.imgur.com/bY0QIPJ.png)
+---
 ![Screenshot2](https://i.imgur.com/Z3iCNHu.png)
